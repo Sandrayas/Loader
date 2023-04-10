@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+div.load-btn button {
+    position: absolute;
+    background: rgba(13, 174, 169, 0.8);
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+    padding: 1rem;
+    font-size: 2rem;
+    border: none;
+    cursor: pointer;
+}
+
+
